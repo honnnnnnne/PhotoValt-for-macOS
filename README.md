@@ -1,5 +1,5 @@
 # PhotoValt-for-macOS
-A photo-viewing app that offers an experience similar to the native Photos app, with added features.
+A photo-viewing app that offers an experience similar to the native Photos app, with added features. Created using Gemini 4.
 # PhotoVault for macOS
 
 **The familiar look and feel of macOS Photos.app — supercharged with browser-style multi-tabs, spatial trackpad video scrubbing, and 120fps performance for 100,000+ photo libraries.**
